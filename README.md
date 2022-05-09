@@ -1,2 +1,8 @@
 # hello-world
-My first github project.
+## Try to use markdown
+**bold TEXT**
+*Italic*
+***bold and Italic same time***
+>blockquote
+
+
